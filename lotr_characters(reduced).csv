@@ -1,28 +1,29 @@
 ,birth,death,gender,hair,height,name,race,realm,spouse
-0,"Unknown, possibly during the ,First Age","Unknown, possibly TA 3019",Female,,430,Shelob,Great Spiders,Torech Ungol,nan
-1,TA 241,FO 121,Female,Black,170,Arwen,"Half-elven,Men",Reunited Kingdom,Aragorn II Elessar
-2,"March 1 ,2931",FO 120,Male,Dark,198,Aragorn II Elessar,Men,"Reunited Kingdom,Arnor,Gondor",Arwen
-3,TA 2978,"February 26 ,3019",Male,Dark (book) Light brown (movie),190,Boromir,Men,,nan
-4,TA 2983,"February 26 ,82",Male,Raven,192,Faramir,Men,Minas Ithil,Eowyn
-5,TA 2879,"Unknown (Departed to ,Aman ,FO 120,)",Male,Auburn,150,Gimli,Dwarves,,nan
-6,TA 2995,FO,Female,Pale gold,175,Eowyn,Men,172,Faramir
-7,TA 2990,FO 63,Male,Dirty blond,196,Eomer,Men,Rohan,Lothíriel after the War of the Ring
-8,"22 September ,TA 2968","Unknown (Last sighting ,September 29 ,3021,) (,SR 1421,)",Male,Brown,116,Frodo Baggins,Hobbit,Shire,nan
-9,TA 2982,FO 65,Male,Golden yellow (film),138,Meriadoc Brandybuck,Hobbit,Shire,Estella (Bolger) Brandybuck
-10,TA 2990,FO 65,Male,Almost golden,134,Peregrin Took,Hobbits,Shire,Diamond of Long Cleeve
-11,"April 6 ,2980","Still alive, after going to the ,Undying Lands, in ,FO 61",Male,Blond (movie),122,Samwise Gamgee,Hobbits,Shire,Rosie Cotton
-12,TA 2984,FO 61,Female,Light brown (film),105,Rosie Cotton,Hobbits,Shire,Samwise Gamgee
-13,Before the the Shaping of Arda,"January 253019 ,Battle of the Peak immortal",Male,"Grey, later white",185,Gandalf,Maiar,,nan
-14,"Before the creation of ,Arda","3 November ,3019",Male,White,190,Saruman,Maiar,"Isengard,Nan Curunír",nan
-15,"Before the creation of ,Arda","March 25 ,3019",Male,Various ,200,Sauron,Maiar,,nan
-16,FA 532,"Still alive; departed to ,Aman, on ,September 29 ,3021",Male,Dark,187,Elrond,Half-elven,Rivendell,Celebrían
-17,YT,"Still alive, departed over the sea in the early Fourth Age",Male,Silver,190,Celeborn,Elves,"Eregion,Lothlórien,Caras Galadhon",Galadriel
-18,YT 1362,"Still alive: Departed over the sea on ,September 29 ,3021",Female,Golden,185,Galadriel,Elves,"Eregion,Lothlórien,Caras Galadhon",Celeborn
-19,"22 September ,TA 2890","Unknown (Last sighting 29 SeptemberTA 3021,) (,SR 1421,)",Male,"Brown, later white",125,Bilbo Baggins,Hobbits,Shire,nan
-20,,"February 29 ,3019",Male,,135,Grishnákh,Orc,,nan
-21,,TA 2799,Male,none,180,Azog,Orcs,"Moria,Mount Gundabad",nan
-22,TA 2930,"March 15 ,3019",Male,"Dark, grey (in old age)",191,Denethor II,Men,,Finduilas
-23,TA 2920,TA 2980,Female,,104,Primula (Brandybuck) Baggins,Hobbits,Shire,Drogo Baggins
-24,TA 2908,TA 2980,Male,,119,Drogo Baggins,Hobbits,Shire,Primula Brandybuck
-25,"Unknown, before the coming of Melkor","Unknown, possibly immortal",Male,Brown,167,Tom Bombadil,,Old Forest,Goldberry
-26, Unknown, Unknown, Male, Black, 154, Thorin, Dwarf, Erebor, nan
+0, Unknown, Unknown, Male, Black, 154, Thorin, Dwarf, Erebor, nan
+1,"Unknown, possibly during the ,First Age","Unknown, possibly TA 3019",Female,,430,Shelob,Great Spiders,Torech Ungol,nan
+2,TA 241,FO 121,Female,Black,170,Arwen,"Half-elven,Men",Reunited Kingdom,Aragorn II Elessar
+3,"March 1 ,2931",FO 120,Male,Dark,198,Aragorn II Elessar,Men,"Reunited Kingdom,Arnor,Gondor",Arwen
+4,TA 2978,"February 26 ,3019",Male,Dark (book) Light brown (movie),190,Boromir,Men,,nan
+5,TA 2983,"February 26 ,82",Male,Raven,192,Faramir,Men,Minas Ithil,Eowyn
+6,TA 2879,"Unknown (Departed to ,Aman ,FO 120,)",Male,Auburn,150,Gimli,Dwarves,,nan
+7,TA 2995,FO,Female,Pale gold,175,Eowyn,Men,172,Faramir
+8,TA 2990,FO 63,Male,Dirty blond,196,Eomer,Men,Rohan,Lothíriel after the War of the Ring
+9,"22 September ,TA 2968","Unknown (Last sighting ,September 29 ,3021,) (,SR 1421,)",Male,Brown,116,Frodo Baggins,Hobbit,Shire,nan
+10,TA 2982,FO 65,Male,Golden yellow (film),138,Meriadoc Brandybuck,Hobbit,Shire,Estella (Bolger) Brandybuck
+11,TA 2990,FO 65,Male,Almost golden,134,Peregrin Took,Hobbits,Shire,Diamond of Long Cleeve
+12,"April 6 ,2980","Still alive, after going to the ,Undying Lands, in ,FO 61",Male,Blond (movie),122,Samwise Gamgee,Hobbits,Shire,Rosie Cotton
+13,TA 2984,FO 61,Female,Light brown (film),105,Rosie Cotton,Hobbits,Shire,Samwise Gamgee
+14,Before the the Shaping of Arda,"January 253019 ,Battle of the Peak immortal",Male,"Grey, later white",185,Gandalf,Maiar,,nan
+15,"Before the creation of ,Arda","3 November ,3019",Male,White,190,Saruman,Maiar,"Isengard,Nan Curunír",nan
+16,"Before the creation of ,Arda","March 25 ,3019",Male,Various ,200,Sauron,Maiar,,nan
+17,FA 532,"Still alive; departed to ,Aman, on ,September 29 ,3021",Male,Dark,187,Elrond,Half-elven,Rivendell,Celebrían
+18,YT,"Still alive, departed over the sea in the early Fourth Age",Male,Silver,190,Celeborn,Elves,"Eregion,Lothlórien,Caras Galadhon",Galadriel
+19,YT 1362,"Still alive: Departed over the sea on ,September 29 ,3021",Female,Golden,185,Galadriel,Elves,"Eregion,Lothlórien,Caras Galadhon",Celeborn
+20,"22 September ,TA 2890","Unknown (Last sighting 29 SeptemberTA 3021,) (,SR 1421,)",Male,"Brown, later white",125,Bilbo Baggins,Hobbits,Shire,nan
+21,,"February 29 ,3019",Male,,135,Grishnákh,Orc,,nan
+22,,TA 2799,Male,none,180,Azog,Orcs,"Moria,Mount Gundabad",nan
+23,TA 2930,"March 15 ,3019",Male,"Dark, grey (in old age)",191,Denethor II,Men,,Finduilas
+24,TA 2920,TA 2980,Female,,104,Primula (Brandybuck) Baggins,Hobbits,Shire,Drogo Baggins
+25,TA 2908,TA 2980,Male,,119,Drogo Baggins,Hobbits,Shire,Primula Brandybuck
+26,"Unknown, before the coming of Melkor","Unknown, possibly immortal",Male,Brown,167,Tom Bombadil,,Old Forest,Goldberry
+
